@@ -1,0 +1,72 @@
+Offense Code, Offense Description, Crime Against,NIBRS Offenses
+13A, Aggravated Assault, Person,Assault Offenses
+23H, Theft/All other Larceny, Property,Larceny/Theft Offenses
+90Z, All other offenses, Person/Property/Society,All Other Offenses
+200, Arson, Property,Arson
+40B, Assisting or promoting prostitution, Society,Prostitution Offenses
+90A, Bad checks, Property,Bad Checks
+39A, Betting/wagering, Society,Gambling Offenses
+510, Bribery, Property,Bribery
+220, Burglary/Breaking & Entering, Property,Burglary/B&E
+250, Counterfeiting/Forgery, Property,Counterfeiting/Forgery
+26B, Credit Card/ATM Fraud, Property,Fraud Offenses
+90B, Curfew/Loitering/Vagrancy Violations, Society,Curfew/Loitering/Vagrancy Violations
+290, Destruction/Damage/Vandalism of Property, Property,Destruction/Damage/Vandalism of Property
+90C, Disorderly conduct, Society,Disorderly Conduct
+90D, Driving under the influence, Society,Driving Under the Influence
+35B, Drug equipment violations, Society,Drug/Narcotic Offenses
+35A, Drug/Narcotic Violations, Society,Drug/Narcotic Offenses
+90E, Drunkenness, Society,Drunkenness
+270, Embezzlement, Property,Embezzlement
+210, Extortion/Blackmail, Property,Extortion/Blackmail
+26A, False Pretenses/Swindle/Confidence Game, Property,Fraud Offenses
+90F, Family Offenses/Nonviolent, Society,"Family Offenses, NonViolent"
+11D, Forcible fondling, Person,Sex Offenses (Forcible)
+11A, Forcible rape, Person,Sex Offenses (Forcible)
+11B, Forcible sodomy, Person,Sex Offenses (Forcible)
+39C, Gambling equipment violations, Society,Gambling Offenses
+26C, Impersonation, Property,Fraud Offenses
+36A, Incest, Person,Sex Offenses (Non-Forcible)
+13C, Intimidation, Person,Assault Offenses
+09C, Justifiable homicide, Person/Not a Crime,Homicide Offenses
+100, Kidnapping/Abduction, Person,Kidnapping/Abduction
+90G, Liquor law violations, Society,Liquor Law Violations
+240, Motor vehicle theft, Property,Motor Vehicle Theft
+09A, Murder & nonnegligent manslaughter, Person,Homicide Offenses
+09B, Negligent manslaughter, Person,Homicide Offenses
+39B, Operating/Promoting/Assisting Gambling, Society,Gambling Offenses
+90H, Peeping tom, Society,Peeping Tom
+23A, Pocket-picking, Property,Larceny/Theft Offenses
+370, Pornography/Obscene Material, Society,Pornography/Obscene Material
+40A, Prostitution, Society,Prostitution Offenses
+23B, Purse-snatching, Property,Larceny/Theft Offenses
+120, Robbery, Property,Robbery
+90I, Runaway, Not a Crime, Runaway
+11C, Sexual assault with an object, Person,Sex Offenses (Forcible)
+23C, Shoplifting, Property,Larceny/Theft Offenses
+13B, Simple assault, Person,Assault Offenses
+39D, Sports tampering, Society,Gambling Offenses
+36B, Statutory rape, Person,Sex Offenses (Non-Forcible)
+280, Stolen property offenses, Property,D Stolen Property Offenses
+23D, Theft from building, Property,Larceny/Theft Offenses
+23E, Theft from coin-operated machine or device, Property,Larceny/Theft Offenses
+23F, Theft From motor vehicle, Property,Larceny/Theft Offenses
+23G, Theft of motor vehicle parts or accessory, Property,Larceny/Theft Offenses
+90J, Trespass of real property , Society,Trespassing
+520, Weapon law violations, Society,Weapon Law Violations
+26D, Welfare fraud, Property,Fraud Offenses
+26E, Wire fraud, Property,Fraud Offenses
+220, Burglary, Property,Burglary/B&E
+720,Animal Cruelty, Property,Assault Offenses
+26F,Identity theft,Person,Extortion/Blackmail
+26G,Hacking/Computer Invasion, Property/Person/Society,Extortion/Blackmail
+64A,Human Trafficking/Commercial Sex Act, Society,Human Trafficking
+64B,Human Trafficking/Involuntary Servitude, Society,Human Trafficking
+40C,Purchasing prostitution, Society,Prostitution Offenses
+Unknown,Unknown,Unknown,Unknown
+23H, All other Larceny, Property/Person/Society,Larcency
+26G,Hacking /Computer Invasion, Property/Person/Society,Extortion/Blackmail
+23F, Theft From motor vehicle, Property,Larceny/Theft Offenses
+23H,All other larceny, Property,Larceny/Theft Offenses
+23F,Theft from motor vehicle, Property,Larceny/Theft Offenses
+Unknown,Unkonwn,Unknown,Unknown
